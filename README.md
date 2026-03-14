@@ -64,5 +64,6 @@
 <img width="1885" height="1130" alt="스크린샷 2026-03-14 201201" src="https://github.com/user-attachments/assets/7d7b968a-b83a-4484-ac87-4206100c7a6a" />
 <img width="1895" height="1045" alt="스크린샷 2026-03-14 201210" src="https://github.com/user-attachments/assets/7fc8d1e9-96a2-44a8-b05e-f5c8d81470a4" />
 
-### STEP 5. Fork Repo 최신 상태 갱신
-다른 학생의 
+### STEP 5. Fork Repo 최신 상태 갱신(Sync fork)
+
+
